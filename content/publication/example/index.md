@@ -75,10 +75,11 @@ gallery_item:
 {{% callout note %}}
 The project is still in progress, for a demo please use the following credentials to play around with the platform
 
-*Organization user* : oj@gmail.com  |   *Password* : pass
+*Organization user* : org@gmail.com  |   *Password* : Catalysed@2021
 
-*Student user* : student@gmail.com  |   *Password* : pass
-*Mentor user* :  mentor@gmail.com  |   *Password* : pass
+*Student user* : student@gmail.com  |   *Password* : Catalysed@2021
+
+*Mentor user* :  mentor@gmail.com  |   *Password* : Catalysed@2021
 
 {{% /callout %}}
 

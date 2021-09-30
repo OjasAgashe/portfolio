@@ -5,12 +5,8 @@ share: false
 #publishDate: "2021-02-01T00:00:00Z"
 show_date: false
 abstract: |2-
-
-Catalysed.org is a platform for organizations to run there 
-
+Catalysed.org is a platform for organizations to run there
 Bootstrapping the entire project ..
-
-
 Packaging the front-end and backend into single executables in order to make the deployments compact and flexible.
 Moved from Google CLoud App Engine to AWS Elastic Bean Stalk.
 

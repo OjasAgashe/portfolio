@@ -82,10 +82,11 @@ Please click on the images below to view in gallery mode
 
 
 
+{{< gallery album="catalysed" >}} 
 
-{{< gallery album="catalysed" >}}
 
-{{</br>}}
+
+{{<br>}}
 
 
 

@@ -48,6 +48,7 @@ experience:
          * Designed and implemented APIs, Data models and effectively collaborated with UI developers, UX designers and product managers, keeping in mind the 𝐞𝐧𝐝-𝐮𝐬𝐞𝐫 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
          * Identified and improved API and page load times by fine tuning entity relations and API contracts
          * Worked on improving stability of the application by 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠 𝐜𝐨𝐝𝐞 𝐜𝐨𝐯𝐞𝐫𝐚𝐠𝐞 𝐛𝐲 𝟑𝟎% through Junit tests.
+
       Bidcontender : Pre-construction Biding and tender management platform | [ 𝐑𝐮𝐛𝐲 𝐨𝐧 𝐫𝐚𝐢𝐥𝐬 𝐚𝐧𝐝 𝐀𝐖𝐒 (𝐄𝐂𝟐, 𝐒𝟑, 𝐑𝐃𝐒, 𝐒𝐐𝐒) ]
          * Contributed to developing and maintaining the ruby on rails web application through it’s end-of-life phase.
          * Planned and implemented multiple compliance and regulatory requirements for different components like 𝐮𝐬𝐞𝐫 𝐩𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐮𝐩𝐠𝐫𝐚𝐝𝐞 𝐚𝐧𝐝 𝐫𝐨𝐭𝐚𝐭𝐢𝐨𝐧, 𝐬𝐮𝐛𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐛𝐚𝐬𝐢𝐜 𝐚𝐜𝐜𝐞𝐬𝐬𝐢𝐛𝐢𝐥𝐢𝐭𝐲 𝐟𝐨𝐫 𝟔𝟓𝐤+ 𝐚𝐜𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫𝐬.

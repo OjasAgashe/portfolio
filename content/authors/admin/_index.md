@@ -13,8 +13,6 @@ organizations:
 - name: Cornell University
   url: https://www.cs.cornell.edu/mastersc
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -59,8 +57,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an M.Eng Computer Science student at Cornell University. At Cornell, I'm focusing my studies on Machine Learning, Intelligent Systems, and Cloud computing. Before this, I had a wonderful experience working at Oracle in India, where I built enterprise web-based software products (restful API, microservices, focused on code coverage, stability and reliability of the services) using Java, Spring Boot, Ruby on Rails, elastic search and many other frameworks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have learned a lot from my time at Oracle and have grown personally and in my professional career. Through my work, learning, and personal projects, I have realized my passion for building products that have a tangible impact on the journeys and lives of users and stakeholders.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm currently looking for an opportunity in Software Development roles to utilize my potential to the fullest by developing products that solve challenging problems.

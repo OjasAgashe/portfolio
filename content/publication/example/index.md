@@ -1,6 +1,7 @@
 ---
 title: "Catalysed.org - Passion project"
-
+authors:
+- Click to view more
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -93,6 +94,7 @@ Please click on the images below to view in gallery mode
 
 {{% callout note %}}
 The project is still in progress, for a demo please use the following credentials to play around with the platform
+
 *Username* : oj@gmail.com
 *Password* : pass
 {{% /callout %}}

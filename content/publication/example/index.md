@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Catalysed.org - Passion project"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,12 +8,12 @@ title: "An example conference paper"
 #["Catalysed.org"]("http://catalyseddev-env.eba-qewmmmrf.us-east-1.elasticbeanstalk.com/")
 
 
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+#publishDate: "2021-02-01T00:00:00Z"
+show_date: false
+abstract: Catalysed.org is a platform for organizations to run there 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: Platform for Not-for-profit educational organizations to run their operations and a place for students to explore their passions and learn new topics.
 
 # Display this page in the Featured widget?
 featured: true
@@ -22,18 +22,24 @@ featured: true
 links:
  - name: Visit Catalysed.org
    url: http://catalyseddev-env.eba-qewmmmrf.us-east-1.elasticbeanstalk.com/
+ - name: Backend Code
+   url: https://github.com/OjasAgashe/catalysed-BE
+ - name: Frontend Code
+   url: https://github.com/OjasAgashe/catalysed-FE
  
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  focal_point: ""
+  focal_point: "TopRight"
   preview_only: false
 
 image:
   link: catalysed.png
   focal_point: ""
   preview_only: false
+
+{{< gallery album="<catalysed>" >}}
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,14 +55,34 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
+
+gallery_item:
+- album: catalysed
+  image: 1_create_program.png
+  caption: Program creation page
+- album: catalysed
+  image: 2_search_program.png
+  caption: Program search page
+- album: catalysed
+  image: 3_program_details.png
+  caption: Program details page
+- album: catalysed
+  image: 4_program_invitations.png
+  caption: Program Invitation to Mentor and Students page
+- album: catalysed
+  image: 5_program_participants.png
+  caption: Program Participants page
+- album: catalysed
+  image: 6_program_applications.png
+  caption: Applications to program by Mentors/Students
+- album: catalysed
+  image: 7_application_details.png
+  caption: Program application
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+The project is still in progress, for a demo please use the following credentials to play around with the platform
+*Username* : oj@gmail.com
+*Password* : pass
 {{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

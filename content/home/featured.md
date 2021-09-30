@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: "Featured Project" 
-subtitle: "Catalysed.org"
+#subtitle: "Catalysed.org"
 
 content:
   # Page type to display. E.g. post, talk, publication...

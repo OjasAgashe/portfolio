@@ -1,6 +1,6 @@
 ---
-title: "Catalysed.org - Passion project"
-
+title: "Catalysed.org"
+share: false
 
 #publishDate: "2021-02-01T00:00:00Z"
 show_date: false
@@ -76,5 +76,3 @@ Please click on the images below to view in gallery mode
 
 
 {{< gallery album="catalysed" >}}
-
-#<br>

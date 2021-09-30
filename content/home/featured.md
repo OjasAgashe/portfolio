@@ -11,7 +11,7 @@ weight: 80
 
 title: Project 
 subtitle: "Catalysed.org"
-  link: "http://catalyseddev-env.eba-qewmmmrf.us-east-1.elasticbeanstalk.com/"
+link: "http://catalyseddev-env.eba-qewmmmrf.us-east-1.elasticbeanstalk.com/"
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication

@@ -1,12 +1,5 @@
 ---
 title: "Catalysed.org - Passion project"
-authors:
-- Click to view more
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
- 
-#["Catalysed.org"]("http://catalyseddev-env.eba-qewmmmrf.us-east-1.elasticbeanstalk.com/")
 
 
 #publishDate: "2021-02-01T00:00:00Z"
@@ -40,19 +33,6 @@ image:
   focal_point: "TopRight"
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-
 
 gallery_item:
 - album: catalysed
@@ -77,24 +57,19 @@ gallery_item:
   image: 7_application_details.png
   caption: Program application
 ---
+
+{{% callout note %}}
+The project is still in progress, for a demo please use the following credentials to play around with the platform
+
+*Username* : oj@gmail.com  |
+  *Password* : pass
+{{% /callout %}}
+
 {{% callout note %}}
 Please click on the images below to view in gallery mode
 {{% /callout %}}
 
 
+{{< gallery album="catalysed" >}}
 
-{{< gallery album="catalysed" >}} 
-
-
-
-<br>
-
-
-
-
-{{% callout note %}}
-The project is still in progress, for a demo please use the following credentials to play around with the platform
-
-*Username* : oj@gmail.com
-*Password* : pass
-{{% /callout %}}
+#<br>

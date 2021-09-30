@@ -28,7 +28,7 @@ item:
   date_end: ""
   date_start: "2021-06-25"
   organization: Oracle
-  title: Oracle Certified Professional: Java SE 11 Developer
+  title: Oracle Certified Professional - Java SE 11 Developer
 
 design:
   columns: '2' 

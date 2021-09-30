@@ -9,9 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Project 
-subtitle: [Catalysed.org](http://catalyseddev-env.eba-qewmmmrf.us-east-1.elasticbeanstalk.com/)
-link: "http://catalyseddev-env.eba-qewmmmrf.us-east-1.elasticbeanstalk.com/"
+title: "Project" 
+subtitle: ["Catalysed.org"](http://catalyseddev-env.eba-qewmmmrf.us-east-1.elasticbeanstalk.com/)
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication

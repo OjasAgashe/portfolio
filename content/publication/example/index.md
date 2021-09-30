@@ -77,7 +77,17 @@ gallery_item:
   image: 7_application_details.png
   caption: Program application
 ---
+{{% callout note %}}
+Please click on the images below to view in gallery mode
+{{% /callout %}}
+
+
+
+
 {{< gallery album="catalysed" >}}
+
+
+
 
 {{% callout note %}}
 The project is still in progress, for a demo please use the following credentials to play around with the platform

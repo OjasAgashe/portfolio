@@ -86,7 +86,7 @@ Please click on the images below to view in gallery mode
 
 
 
-{{<br>}}
+<br>
 
 
 

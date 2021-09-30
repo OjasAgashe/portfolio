@@ -4,11 +4,12 @@ share: false
 
 #publishDate: "2021-02-01T00:00:00Z"
 show_date: false
+
 abstract: |2-
-Catalysed.org is a platform for organizations to run there
-Bootstrapping the entire project
-Packaging the front-end and backend into single executables in order to make the deployments compact and flexible.
-Moved from Google CLoud App Engine to AWS Elastic Bean Stalk.
+  Catalysed.org is a platform for organizations to run there
+  Bootstrapping the entire project
+  Packaging the front-end and backend into single executables in order to make the deployments compact and flexible.
+  Moved from Google CLoud App Engine to AWS Elastic Bean Stalk.
 
   * Building a platform for streamlining Educational not-for-profit organizations’ operations and widening their outreach to students.
   * Leading and mentoring a team of 2 developers with regular check-ins and planning sessions.

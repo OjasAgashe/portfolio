@@ -7,7 +7,7 @@ show_date: false
 abstract: Catalysed.org is a platform for organizations to run there 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: |2-
   * Building a platform for streamlining Educational not-for-profit organizations’ operations and widening their outreach to students.
   * Leading and mentoring a team of 2 developers with regular check-ins and planning sessions.
   * 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐬𝐞𝐝 : 𝐒𝐩𝐫𝐢𝐧𝐠𝐁𝐨𝐨𝐭, 𝐑𝐞𝐚𝐜𝐭𝐉𝐬, 𝐌𝐲𝐒𝐐𝐋, 𝐋𝐢𝐪𝐮𝐢𝐛𝐚𝐬𝐞, 𝐀𝐖𝐒 (𝐄𝐁), 𝐆𝐢𝐭

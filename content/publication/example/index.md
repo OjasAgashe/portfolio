@@ -14,7 +14,6 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -23,19 +22,16 @@ featured: true
 links:
  - name: Visit Catalysed.org
    url: http://catalyseddev-env.eba-qewmmmrf.us-east-1.elasticbeanstalk.com/
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+ 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  focal_point: ""
+  preview_only: false
+
+image:
+  link: catalysed.png
   focal_point: ""
   preview_only: false
 

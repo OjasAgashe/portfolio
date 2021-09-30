@@ -15,10 +15,10 @@ organizations:
 
 
 # Interests to show in About widget
-interests:
-- Software Development
-- Product Development
-- Machine Learning
+#interests:
+#- Software Development
+#- Product Development
+#- Machine Learning
 
 # Education to show in About widget
 education:
@@ -61,4 +61,4 @@ I'm an M.Eng Computer Science student at Cornell University. At Cornell, I'm foc
 
 I have learned a lot from my time at Oracle and have grown personally and in my professional career. Through my work, learning, and personal projects, I have realized my passion for building products that have a tangible impact on the journeys and lives of users and stakeholders.
 
-I'm currently looking for an opportunity in Software Development roles to utilize my potential to the fullest by developing products that solve challenging problems.
+I'm currently looking for a full time opportunity in Software Development roles to utilize my potential to the fullest by developing products that solve challenging problems.

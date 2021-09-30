@@ -39,15 +39,12 @@ image:
   focal_point: ""
   preview_only: false
 
-{{< gallery album="<catalysed>" >}}
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -80,6 +77,7 @@ gallery_item:
   image: 7_application_details.png
   caption: Program application
 ---
+{{< gallery album="catalysed" >}}
 
 {{% callout note %}}
 The project is still in progress, for a demo please use the following credentials to play around with the platform

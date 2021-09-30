@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: "Project" 
-subtitle: ["Catalysed.org"](http://catalyseddev-env.eba-qewmmmrf.us-east-1.elasticbeanstalk.com/)
+subtitle: "Catalysed.org"
 
 content:
   # Page type to display. E.g. post, talk, publication...

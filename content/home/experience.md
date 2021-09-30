@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+  - title: Application Engineer (IC2)
     company: Oracle
     company_url: ''
     company_logo: org-gc
@@ -34,12 +34,12 @@ experience:
        [ 𝐒𝐩𝐫𝐢𝐧𝐠 𝐁𝐨𝐨𝐭, 𝐄𝐥𝐚𝐬𝐭𝐢𝐜𝐬𝐞𝐚𝐫𝐜𝐡, 𝐃𝐨𝐜𝐤𝐞𝐫, 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐬, 𝐆𝐫𝐚𝐝𝐥𝐞, 𝐉𝐞𝐧𝐤𝐢𝐧𝐬 ]
          * Developed and launched a RESTful web service that helped 𝐨𝐯𝐞𝐫𝐜𝐨𝐦𝐞 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐡𝐞 𝐔𝐒 𝐦𝐚𝐫𝐤𝐞𝐭.
          * Created standardized code review documentation which helped streamline the process and 𝐫𝐞𝐝𝐮𝐜𝐞𝐝 𝐫𝐞𝐯𝐢𝐞𝐰 𝐭𝐢𝐦𝐞 𝐛𝐲 𝟒𝟎%. 
-         *𝐌𝐞𝐧𝐭𝐨𝐫 𝐚𝐧𝐝 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐩𝐨𝐢𝐧𝐭 𝐨𝐟 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 for new hires in the team.
+         * 𝐌𝐞𝐧𝐭𝐨𝐫 𝐚𝐧𝐝 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐩𝐨𝐢𝐧𝐭 𝐨𝐟 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 for new hires in the team.
         
   - title: Application Developer (IC1)
     company: Oracle
     company_url: ''
-    company_logo: org-x
+    company_logo: org-gc
     location: Bangalore, India
     date_start: '2018-07-02'
     date_end: '2021-02-28'
@@ -55,7 +55,7 @@ experience:
   - title: Project Intern
     company: Oracle Retail
     company_url: ''
-    company_logo: org-x
+    company_logo: org-gc
     location: Bangalore, India
     date_start: '2018-01-01'
     date_end: '2021-06-30'

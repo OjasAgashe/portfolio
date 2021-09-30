@@ -4,7 +4,19 @@ share: false
 
 #publishDate: "2021-02-01T00:00:00Z"
 show_date: false
-abstract: Catalysed.org is a platform for organizations to run there 
+abstract: |2-
+
+Catalysed.org is a platform for organizations to run there 
+
+Bootstrapping the entire project ..
+
+
+Packaging the front-end and backend into single executables in order to make the deployments compact and flexible.
+Moved from Google CLoud App Engine to AWS Elastic Bean Stalk.
+
+  * Building a platform for streamlining Educational not-for-profit organizations’ operations and widening their outreach to students.
+  * Leading and mentoring a team of 2 developers with regular check-ins and planning sessions.
+  * 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐬𝐞𝐝 : 𝐒𝐩𝐫𝐢𝐧𝐠𝐁𝐨𝐨𝐭, 𝐑𝐞𝐚𝐜𝐭𝐉𝐬, 𝐌𝐲𝐒𝐐𝐋, 𝐋𝐢𝐪𝐮𝐢𝐛𝐚𝐬𝐞, 𝐀𝐖𝐒 (𝐄𝐁), 𝐆𝐢𝐭
 
 # Summary. An optional shortened abstract.
 summary: |2-
@@ -66,8 +78,11 @@ gallery_item:
 {{% callout note %}}
 The project is still in progress, for a demo please use the following credentials to play around with the platform
 
-*Username* : oj@gmail.com  |
-  *Password* : pass
+*Organization user* : oj@gmail.com  |   *Password* : pass
+
+*Student user* : student@gmail.com  |   *Password* : pass
+*Mentor user* :  mentor@gmail.com  |   *Password* : pass
+
 {{% /callout %}}
 
 {{% callout note %}}

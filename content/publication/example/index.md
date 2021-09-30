@@ -36,7 +36,7 @@ image:
 
 image:
   link: catalysed.png
-  focal_point: ""
+  focal_point: "TopRight"
   preview_only: false
 
 # Associated Projects (optional).
@@ -51,7 +51,6 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
 
 
 gallery_item:
@@ -85,6 +84,8 @@ Please click on the images below to view in gallery mode
 
 
 {{< gallery album="catalysed" >}}
+
+{{</br>}}
 
 
 

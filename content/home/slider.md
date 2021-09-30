@@ -1,5 +1,7 @@
+---
 widget: slider
-headless: true  # This file represents a page section.
+headless: true  
+# This file represents a page section.
 weight: 25
 # ... Put Your Section Options Here (section position etc.) ...
 
@@ -41,3 +43,4 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
+---

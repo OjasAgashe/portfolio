@@ -2,7 +2,6 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-active: false
 
 # This file represents a page section.
 headless: true
@@ -17,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: Java, Python, Ruby, JavaScript, Spring Boot, Ruby on Rails, React Js
+  icon: code
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Languages & Frameworks
+- description: Git, Postgres, MySQL, Liquibase, Elasticsearch, Docker
+  icon: tools
   icon_pack: fas
-  name: Photography
+  name: DB, Tools & Technologies
+- description: AWS (Basic), Azure(Basic)
+  icon: cloud
+  icon_pack: fas
+  name: Cloud
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

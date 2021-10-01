@@ -11,7 +11,7 @@ role: Graduate student pursuing MEng in Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Cornell University
-  url: https://www.cs.cornell.edu/mastersc
+  url: https://www.cs.cornell.edu/masters
 
 
 # Interests to show in About widget

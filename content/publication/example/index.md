@@ -6,14 +6,16 @@ share: false
 show_date: false
 
 abstract: |2-
-  Catalysed.org is a platform for organizations to run there
-  Bootstrapping the entire project
-  Packaging the front-end and backend into single executables in order to make the deployments compact and flexible.
-  Moved from Google CLoud App Engine to AWS Elastic Bean Stalk.
+  Catalysed is being built as a platform where children from different parts of the world come to learn and pursue their interests and hobbies through programs and workshops conducted by professional mentors from a diverse set of Organizations registered with the platform.
+  Catalysed enables organizations to streamline their operations and widen their outreach to students. The platform provides a way for the orgs to have visibility over all the programs that are being run as well as fine grained insights on the classes that are being thought by their mentors.
+  The platform also empowers the students by building a community where they are encouraged to pursue their passions and have access to education from anywhere in the world.
 
-  * Building a platform for streamlining Educational not-for-profit organizations’ operations and widening their outreach to students.
-  * Leading and mentoring a team of 2 developers with regular check-ins and planning sessions.
-  * 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐬𝐞𝐝 : 𝐒𝐩𝐫𝐢𝐧𝐠𝐁𝐨𝐨𝐭, 𝐑𝐞𝐚𝐜𝐭𝐉𝐬, 𝐌𝐲𝐒𝐐𝐋, 𝐋𝐢𝐪𝐮𝐢𝐛𝐚𝐬𝐞, 𝐀𝐖𝐒 (𝐄𝐁), 𝐆𝐢𝐭
+  I started the project when one of my friends who worked with Teach for India, discussed with me the pain points she and the org face in their day-to-day operations. The adhoc nature of managing the programs and maintaining record takes away a lot of time from the mentors, volunteers and the organizations, which could have been spent in conducting the workshops and classes.
+  Currently Catalysed is in development phase, I am building out the backend for the platform and also mentoring and leading few college undergrads for the frontend development.
+  Tech Stack : 
+  * Backend : SpringBoot, MySQL, AWS (Elastic Beanstalk)
+  * FrontEnf : ReactJS, TypeScript
+
 
 # Summary. An optional shortened abstract.
 summary: |2-
